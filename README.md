@@ -1,2 +1,2 @@
-# C-_practice
+# Csharp_practice
 C#練習用
